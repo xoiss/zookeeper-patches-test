@@ -57,3 +57,4 @@ dkms.conf
 /.settings/
 test_*
 !test_*.c
+!test_*.h
