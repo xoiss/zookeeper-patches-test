@@ -56,3 +56,4 @@ dkms.conf
 /.cproject
 /.settings/
 test_*
+!test_*.c
